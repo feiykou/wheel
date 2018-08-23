@@ -1,0 +1,22 @@
+{
+  "name": "wheel",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000w\u0000h\u0000e\u0000e\u0000l\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feiykou/wheel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feiykou/wheel/issues"
+  },
+  "homepage": "https://github.com/feiykou/wheel#readme",
+  "dependencies": {
+    "vue": "^2.5.17"
+  }
+}
